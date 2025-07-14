@@ -1,0 +1,47 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "explorer.confirmDelete": false,
+    "window.titleBarStyle": "native",
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.mouseWheelZoom": true,
+    "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
+    "workbench.preferredHighContrastLightColorTheme": "Catppuccin Mocha",
+    "workbench.preferredLightColorTheme": "Catppuccin Frappé",
+    "files.autoSave": "afterDelay",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "window.customTitleBarVisibility": "never",
+    "dart.sdkPath": null,
+    "git.enableSmartCommit": true,
+    "notebook.lineNumbers": "on",
+    "git.openRepositoryInParentFolders": "always",
+    "notebook.cellExecutionTimeVerbosity": "verbose",
+    "terminal.integrated.minimumContrastRatio": 1,
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "terminal.integrated.fontLigatures": true,
+    "editor.fontFamily": "'FiraCode Nerd Font', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "workbench.colorCustomizations": {}
+}
