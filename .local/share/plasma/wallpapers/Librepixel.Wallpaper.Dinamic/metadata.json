@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "<zayronxio>@gmail.com",
+                "Name": "Zayronxio"
+            }
+        ],
+        "Category": "",
+        "Description": "Wallpaper Dinamic",
+        "Icon": "preferences-desktop-color",
+        "Id": "Librepixel.Wallpaper.Dinamic",
+        "License": "GPLv3+",
+        "Name": "Wallpaper Dinamic",
+        "Website": "https://store.kde.org/p/2276307"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}
