@@ -1,60 +1,63 @@
-# 🔧 Suhas's Dotfiles
+🔧 Suhas's Dotfiles
 
-Welcome to my personal dotfiles repo!  
-This repository contains the config files for my development environment and KDE Plasma setup — fully portable and minimal.
 
----
 
-## 📦 What's Included
 
-- 🧠 **Neovim** config with plugin manager (`lazy.nvim`)
-- 🎨 **KDE Plasma** layout, global shortcuts, panel setup (via `konsave`)
-- 🪟 **Krohnkite** KWin tiling script
-- 🖥️ Shell configs (`.zshrc`, `.bashrc`)
-- 🔁 Auto-backup script with Git
-- 🛠️ `setup.sh` for installing everything on a new system
 
----
+Welcome to my personal dotfiles repo!This repository contains the config files for my development environment and KDE Plasma setup — fully portable and minimal.
 
-## 🚀 Setup on a New Machine
+📦 What's Included
 
-1. **Install Git:**
+🧠 Neovim config with plugin manager (lazy.nvim)
 
-   ```bash
-   sudo pacman -S git
+🎨 KDE Plasma layout, global shortcuts, and panels via konsave
 
-    Clone this repo:
+🪿 Krohnkite KWin tiling script
+
+💥 Shell configs: .zshrc, .bashrc
+
+🔁 Auto-backup script using Git
+
+🛠️ setup.sh to install everything on a new machine
+
+🚀 Setup on a New Machine
+
+Install Git
+
+sudo pacman -S git
+
+Clone the repo
 
 git clone https://github.com/suhasofficial/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 
-Run the setup script:
+Run the setup script
 
-    bash setup.sh
+bash setup.sh
 
 ✅ This will:
 
-    Copy all config files into your system
+Copy all config files into your system
 
-    Restore Neovim + plugins
+Restore Neovim and plugins
 
-    Restore KDE Plasma layout (if mysetup.knsv is available)
+Restore KDE Plasma layout (if mysetup.knsv exists)
 
-    Reinstall Krohnkite tiling manager
+Install Krohnkite tiling manager
 
-    Enable cron (for scheduled backups)
+Enable cron for automatic backups
 
-♻️ Backing Up Your Configs
+♻️ Backup Your Configs
 
-After making changes to your setup, run:
+To backup changes to your dotfiles, run:
 
 bash ~/dotfiles/backup.sh
 
 This will:
 
-    Copy your latest system config back into the dotfiles repo
+Copy updated configs back to the dotfiles folder
 
-    Commit and push changes to GitHub
+Commit and push changes to GitHub
 
 🗂️ Folder Structure
 
@@ -68,42 +71,34 @@ dotfiles/
 ├── .zshrc
 ├── .bashrc
 ├── .gitconfig
-├── mysetup.knsv        # (Optional) Konsave KDE profile
+├── mysetup.knsv         # (optional konsave profile)
 ├── backup.sh
 └── setup.sh
 
 🔧 Tools Used
 
-    Neovim
+Neovim + Lazy.nvim
 
-    Lazy.nvim
+Konsave (KDE layout manager)
 
-    Konsave
-
-    Krohnkite
+Krohnkite (KWin tiling extension)
 
 🧠 Notes
 
-    You can modify backup.sh or setup.sh to fit your evolving setup.
+Modify setup.sh or backup.sh to suit your workflow
 
-    Remember to run konsave -e mysetup before exporting an updated KDE profile.
+Run konsave -e mysetup to export updated KDE layout
 
-    This repo is best used with KDE Plasma on Arch/EndeavourOS-based distros.
+Best used on Arch Linux or EndeavourOS with KDE Plasma
+
+🖼️ Screenshot
+
+(Optional: Add a screenshot of your desktop below)
+
+
 
 📬 Author
 
-Suhas KM
-📸 Instagram: @suhasofficialy
-💻 GitHub: @suhasofficial
-
-✨ Star this repo if it helped you. Contributions welcome!
+Suhas KM📸 Instagram: @suhasofficiall💻 GitHub: @suhasofficial
 
 
----
-
-Let me know if you want a version with:
-- screenshots of your KDE setup
-- setup video/GIF badges
-- license section (MIT, etc.)
-
-Want me to auto-add this to your repo now?
