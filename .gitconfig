@@ -7,4 +7,4 @@
 	name = suhasofficial
 	email = suhaskuthnikar0p@gmail.com
 [credential]
-	helper = cache
+	helper = store
