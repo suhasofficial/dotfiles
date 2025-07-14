@@ -1,4 +1,4 @@
-# Suhas's Dotfiles
+# My KDE Dotfiles
 
 Welcome to my personal dotfiles repo! This repository contains the config files for my development environment and KDE Plasma setup — fully portable and minimal.
 
