@@ -28,12 +28,15 @@
 -  **Browser:** Firefox
 -  **Music Player:** Spotify 
 
-Firefox CSS sources: [minimal-functional-fox (old)](https://github.com/mut-ex/minimal-functional-fox) & [not-firefox-review](https://github.com/JavaCafe01/not-firefox-review)
-## :pushpin: Dependencies
+Firefox CSS sources: i will uplaod soon
+ 
+## 📦 Dependencies
 
--  [Latte-Dock](https://github.com/KDE/latte-dock) (git version)
--  [wpgtk](https://github.com/deviantfero/wpgtk) & [pywal](https://github.com/dylanaraps/pywal)
--  [qt5-styleplugins](https://github.com/qt/qtstyleplugins) ([AUR](https://aur.archlinux.org/packages/qt5-styleplugins/), can also be installed with `pacman`)
+- wpgtk
+- git
+- polybar
+- powerlevel10k
+- spicetify
 
 ## :paperclip: Recommendations
 
@@ -192,16 +195,3 @@ Log out and log back in again to see the changes.
 
 </details>
 
-## :sparkling_heart: Credits
-
-- [6gk](https://github.com/6gk/)
-- [JavaCafe01](https://github.com/JavaCafe01/)
-- [KevinNThomas](https://gitlab.com/KevinNThomas)
-- [addy-dclxvi](https://github.com/addy-dclxvi/)
-- [adi1090x](https://github.com/adi1090x)
-- [deviantfero](https://github.com/deviantfero/)
-- [elenapan](https://github.com/elenapan/)
-- [fehawen](https://github.com/fehawen/)
-- [gillescastel](https://github.com/gillescastel)
-- [ngynLk](https://github.com/ngynLk/)
-- [owl4ce](https://github.com/owl4ce/)
