@@ -6,53 +6,29 @@
 
 ![](https://github.com/suhasofficial/dotfiles/blob/main/previews/1.png?raw=true)
 
-<h3 align="center"> Cherry Blossom </h3>
+![](https://github.com/suhasofficial/dotfiles/blob/main/previews/2.png?raw=true)
 
-![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/cherryblossom.png)
+![](https://github.com/suhasofficial/dotfiles/blob/main/previews/3.png?raw=true)
 
-<h3 align="center"> Urban </h3>
+![](https://github.com/suhasofficial/dotfiles/blob/main/previews/4.png?raw=true)
 
-![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/urban.png)
-
-<h3 align="center"> Flowers </h3>
-
-![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/flowers.png)
-
-<h3 align="center"> Coffee </h3>
-
-![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/coffee.png)
-
-<h3 align="center"> Foggy Mountain </h3>
-
-![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/foggy-mountain.png)
 
 ## :sparkles: Thanks for visiting! 
 
-To give you an idea on how this works, I use `wpgtk` with templates to make setting color schemes across many applications convenient. Each color scheme has its own corresponding GTK and icon themes.
-
--  **OS:** Manjaro
--  **DE:** Plasma
--  **WM:** KWin
--  **Terminal:** Konsole
+-  **OS:** Endeavour os
+-  **DE:** Plasma 6.4
+-  **WM:** Kröhnkite
+-  **Terminal:** Kitty
 -  **Shell:** zsh + Oh My Zsh + Powerlevel10k
--  **Terminal Font:** SFMono Nerd Font, JetBrainsMono NF, Iosevka
+-  **Terminal Font:** SFMono Nerd Font, JetBrainsMono NF
 -  **System Font:** SF Pro Text
--  **Bar/Panel:** ~~Latte-Dock~~ Polybar
--  **File Manager:** ~~Dolphin~~ Thunar
--  **Editor:** VS Code, Vim
+-  **Bar/Panel:** default KDE panel
+-  **File Manager:** Dolphin
+-  **Editor:** VS Code, Neovim
 -  **Browser:** Firefox
--  **Music Player:** Spotify & ncmpcpp
+-  **Music Player:** Spotify 
 
 Firefox CSS sources: [minimal-functional-fox (old)](https://github.com/mut-ex/minimal-functional-fox) & [not-firefox-review](https://github.com/JavaCafe01/not-firefox-review)
-
-Startpage sources: https://notabug.org/nytly/home (old) & https://github.com/JavaCafe01/startpage
-
-Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/).
-
-ncmpcpp config source: [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config) and [owl4ce](https://github.com/owl4ce/dotfiles/blob/master/.ncmpcpp/config)
-
-Materia GTK themes and Papirus icons are made using [oomox](https://github.com/themix-project/oomox)
-
 ## :pushpin: Dependencies
 
 -  [Latte-Dock](https://github.com/KDE/latte-dock) (git version)
