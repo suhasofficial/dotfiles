@@ -31,7 +31,7 @@
 Firefox CSS sources: Copy and paste the content inside the firefox setup folder into 
 
 ```bash
-.mozilla/firefox/9izwmkmw.default-release/chrome/
+~/.mozilla/firefox/9izwmkmw.default-release/chrome/
 ```
 you can change any desired background wallpaper or edit the code
  
