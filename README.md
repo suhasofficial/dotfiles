@@ -75,11 +75,8 @@ bash setup.sh
 ## :ice_cream: Optional Stuff
 
 <details open>
-<summary><strong>dunst</strong></summary>
-  
-You can use [`dunst`](https://github.com/dunst-project/dunst) instead by renaming KDE's notification service so it gets ignored.
 
-```bash
+ ```bash
 # install konsave for to backup you KDE setup and install themes and fonts and whatever needed
 yay -S konsave nerd-fonts catppuccin-gtk-theme-mocha
 ```
