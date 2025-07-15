@@ -1,0 +1,36 @@
+@-moz-document url(about:home), url(about:newtab), url(about:privatebrowsing) {
+    .click-target-container *, .top-sites-list * {
+        color: #fff !important ;
+        text-shadow: 2px 2px 2px #222 !important ;
+    }
+
+    body::before {
+        content: "" ;
+        z-index: -1 ;
+        position: fixed ;
+        top: 0 ;
+        left: 0 ;
+        background: #f9a no-repeat url(img/bg.jpg) center ;
+        background-size: cover ;
+        width: 100vw ;
+        height: 100vh ;
+    }
+
+    .search-wrapper .search-handoff-button {
+        display: none;
+    }
+
+    .search-wrapper {
+        display: none;
+    }
+
+    .attribution,
+    .photo-attribution,
+    .wallpaper-attribution{
+        display: none !important;
+    }
+/* for hiding weather card, settings icons  and pin icon on shortcut*/
+    .icon-settings, .weather, .icon-pin-small{
+     display: none !important;
+    }
+}
