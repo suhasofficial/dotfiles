@@ -1,8 +1,8 @@
-<p align="center"><a name="top" href="#"><img src="https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/.assets/header_.png"></a></p>
+<p align="center"><a name="top" href="#"><img src="https://github.com/suhasofficial/dotfiles/blob/main/previews/header.png?raw=true"></a></p>
 
 <h2 align="center"> Preview </h2>
 
-<h3 align="center"> Neutral </h3>
+<h3 align="center"> Purple Crosswalk </h3>
 
 ![](https://github.com/suhasofficial/dotfiles/blob/main/previews/1.png?raw=true)
 
@@ -40,24 +40,11 @@ Firefox CSS sources: i will uplaod soon
 
 ## :paperclip: Recommendations
 
--  [Spicetify-cli](https://github.com/khanhas/spicetify-cli) (make sure to install [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) as well.)
-- VS Code Extension - [Wal Theme](https://marketplace.visualstudio.com/items?itemName=dlasagno.wal-theme)
--  [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
--  [Krohnkite](https://store.kde.org/p/1281790/)
--  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
--  [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
--  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
-- [Tabliss](https://tabliss.io/)
-- [Animated Image Wallpaper](https://store.kde.org/p/1339104/)
-- [polybar](https://github.com/polybar/polybar) - replacement for latte-dock
-- [rofi](https://github.com/davatorium/rofi) - replacement for krunner
-- [dunst](https://github.com/dunst-project/dunst) - replacement for KDE's notification daemon
+-  i have included my VS code extension list
 
 ## :hammer_and_wrench: Setup
 
 **(work in progress)**
-
-Note: I just got started ricing back in August so I'm very new to this. I don't guarantee anything to be working as intended.
 
 Set your Global Theme to Breeze Dark before you proceed.
 
@@ -65,7 +52,7 @@ Set your Global Theme to Breeze Dark before you proceed.
 
 - ```bash
   # Use your helper of choice
-  yay -S latte-dock-git wpgtk-git qt5-styleplugins python-pywal
+  yay -S latte-dock-git wpgtk-git 
   ```
 <details open>
 <summary><strong>Clone and copy most of the stuff</strong></summary>
