@@ -71,6 +71,9 @@ cd ~/dotfiles
 ```bash
 bash setup.sh
 ```
+<details open>
+or you can manually copy the config file you need 
+</details>
 
 ## :ice_cream: Optional Stuff
 
